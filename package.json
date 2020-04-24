@@ -21,7 +21,8 @@
   "dependencies": {
     "expo": "^33.0.7",
     "react": "16.8.6",
-    "react-native": "^0.60.4",
-    "ws": ">=3.3.1"
+    "react-native": "^0.62.2",
+    "ws": ">=3.3.1",
+    "kind-of": "^6.0.3"
   }
 }
